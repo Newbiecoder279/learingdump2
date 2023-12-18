@@ -1,0 +1,54 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&family=Yuji+Hentaigana+Akari&display=swap');
+
+body{
+    background-color:#2d545e;
+    font-size: 30px; 
+    border: 15px solid white;
+    border-width: 30%;
+    
+}
+ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+li {
+    float: left;
+  }
+li a {
+    display:inline-blockk;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    text-decoration: none;
+  }
+  li a:hover{
+    background-color: #111111;
+  }
+  h3{
+    color:white;
+    text-decoration: underline;
+  }
+  img{
+    display: block;
+    margin:auto;
+    width: 30%;
+    border-radius: 50%;
+    
+  }
+  .getintouch img{
+    height:10%;
+    width:10%;
+    display: inline-block;
+    
+  }
+  h1{
+    font-style: bold;
+  }
+  p{
+    font-style:'NunitoSans';
+  }
+  
